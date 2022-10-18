@@ -1,6 +1,6 @@
-window.screen.orientation.lock('landscape-primary');
+window.screen.orientation.lock('portrait-primary');
 
-window.screen.orientation.unlock();
+// window.screen.orientation.unlock();
 
 // yeet = -1
 // $('button').on('click', function(){
